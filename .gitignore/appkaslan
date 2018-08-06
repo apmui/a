@@ -1,0 +1,20 @@
+{
+  "Pakgenm": [
+    {
+      "kgenm": "com.apvedioa.apkaslan"
+    }
+  ],
+  "grob": [
+    {
+      "name": "",
+      "image": "https://i.ytimg.com/vi/4Lam8kXI18A/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/kaslan"
+    },
+
+    {
+      "name": "",
+      "image": "https://i.ytimg.com/vi/a4m6dV2cSMk/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/kaslan"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Pakgenm": [
+    {
+      "kgenm": "com.apvedioa.appcadocha",
+      "sip": "6433108796046169",
+      "prvice": "",
+      "snqb": "",
+      "snqb1": "",
+      "snqI": "",
+      "snqI1": "",
+      "snqI2": "",
+      "flopV": "v"
+    }
+  ],
+  "grob": [
+    {
+      "name": "",
+      "image": "https://scontent-atl3-1.cdninstagram.com/vp/dbfa2742e331407919ee026eb323cc7b/5C0677D0/t51.2885-15/e35/29092493_169237483658219_3158464347559165952_n.jpg",
+      "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/kadocha"
+    },
+
+    {
+      "name": "",
+      "image": "https://scontent-atl3-1.cdninstagram.com/vp/dbfa2742e331407919ee026eb323cc7b/5C0677D0/t51.2885-15/e35/29092493_169237483658219_3158464347559165952_n.jpg",
+      "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/kadocha"
+    }
+  ]
+}

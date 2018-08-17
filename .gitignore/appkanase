@@ -1,0 +1,28 @@
+{
+  "Pakgenm": [
+    {
+      "kgenm": "com.apvedioa.appkanase",
+      "sip": "6607037190298258",
+      "prvice": "https://sites.google.com/site/devappmu/",
+      "snqb": "",
+      "snqb1": "",
+      "snqI": "",
+      "snqI1": "",
+      "snqI2": "",
+      "flopV": "v"
+    }
+  ],
+  "grob": [
+    {
+      "name": "",
+      "image": "https://i.ytimg.com/vi/EexJeVkOSQk/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/kanase"
+    },
+
+    {
+      "name": "",
+      "image": "https://i.ytimg.com/vi/EexJeVkOSQk/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/kanase"
+    }
+  ]
+}

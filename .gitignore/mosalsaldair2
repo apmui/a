@@ -1,18 +1,88 @@
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wQPvRxnCBAENy2muxIhuxz0PQRc\"",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/RgsJhl-cf0qqVCJydWrKewklvf8\"",
  "pageInfo": {
-  "totalResults": 6,
+  "totalResults": 8,
   "resultsPerPage": 50
  },
  "items": [
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6ZzIigOXcUdZ5_hFHT20BrB-Lr4\"",
-   "id": "UExtSzJzWlY0bElKVWNvWmJ2S0FETEJhak9EcGFJWFpyRi41NkI0NEY2RDEwNTU3Q0M2",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/H-ew8v9QGm1ZZdpbW6RjbX2WB60\"",
+   "id": "UExtQXBHQWNVS0JJSmhfRkc2TjJrdnA0TnlsUDV6aGIzNS41NkI0NEY2RDEwNTU3Q0M2",
    "snippet": {
-    "publishedAt": "2018-08-13T01:52:16.000Z",
-    "channelId": "UCM2dRuvsIcptDP2FLu8iyIg",
+    "publishedAt": "2018-06-30T14:51:09.000Z",
+    "channelId": "UCafEaTdgniVb3VRXXIowm5A",
+    "title": "Erkenci Kus الطائر المبكر الحلقه 1 كاملة مترجمة",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ndbEdl0nsAw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ndbEdl0nsAw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ndbEdl0nsAw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "مطبخ وتدابير ربة بيت للمبتدئات",
+    "playlistId": "PLmApGAcUKBIJh_FG6N2kvp4NylP5zhb35",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ndbEdl0nsAw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mr6EbROMDMlgcSAif8dpRafWRX4\"",
+   "id": "UExtQXBHQWNVS0JJSmhfRkc2TjJrdnA0TnlsUDV6aGIzNS4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2018-06-30T14:51:16.000Z",
+    "channelId": "UCafEaTdgniVb3VRXXIowm5A",
+    "title": "Erkenci Kus الطائر المبكر الحلقه 1 كاملة مترجمة",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ndbEdl0nsAw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ndbEdl0nsAw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ndbEdl0nsAw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "مطبخ وتدابير ربة بيت للمبتدئات",
+    "playlistId": "PLmApGAcUKBIJh_FG6N2kvp4NylP5zhb35",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ndbEdl0nsAw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/szHFZOuxgbqriYND8VxNVkUXD9w\"",
+   "id": "UExtQXBHQWNVS0JJSmhfRkc2TjJrdnA0TnlsUDV6aGIzNS4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2018-07-06T18:17:20.000Z",
+    "channelId": "UCafEaTdgniVb3VRXXIowm5A",
     "title": "Erkenci Kus الطائر المبكر الحلقه 2 كاملة مترجمة",
     "description": "",
     "thumbnails": {
@@ -32,9 +102,9 @@
       "height": 360
      }
     },
-    "channelTitle": "JOJOMAMA1111",
-    "playlistId": "PLmK2sZV4lIJUcoZbvKADLBajODpaIXZrF",
-    "position": 0,
+    "channelTitle": "مطبخ وتدابير ربة بيت للمبتدئات",
+    "playlistId": "PLmApGAcUKBIJh_FG6N2kvp4NylP5zhb35",
+    "position": 2,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "e7SiSVCJ8Z8"
@@ -43,11 +113,46 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wJkLyb0CraJpSp0oHW5I7MBerlc\"",
-   "id": "UExtSzJzWlY0bElKVWNvWmJ2S0FETEJhak9EcGFJWFpyRi4yODlGNEE0NkRGMEEzMEQy",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TcB_6j6TKHnXvJyLkaHDhf4TbVA\"",
+   "id": "UExtQXBHQWNVS0JJSmhfRkc2TjJrdnA0TnlsUDV6aGIzNS41MjE1MkI0OTQ2QzJGNzNG",
    "snippet": {
-    "publishedAt": "2018-08-13T03:36:41.000Z",
-    "channelId": "UCM2dRuvsIcptDP2FLu8iyIg",
+    "publishedAt": "2018-07-10T18:50:01.000Z",
+    "channelId": "UCafEaTdgniVb3VRXXIowm5A",
+    "title": "Erkenci Kus الطائر المبكر الحلقه 2 كاملة مترجمة",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e7SiSVCJ8Z8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e7SiSVCJ8Z8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e7SiSVCJ8Z8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "مطبخ وتدابير ربة بيت للمبتدئات",
+    "playlistId": "PLmApGAcUKBIJh_FG6N2kvp4NylP5zhb35",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "e7SiSVCJ8Z8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_tIGp4mj-7KPKELh1nnskdmvCYY\"",
+   "id": "UExtQXBHQWNVS0JJSmhfRkc2TjJrdnA0TnlsUDV6aGIzNS4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2018-07-11T15:24:46.000Z",
+    "channelId": "UCafEaTdgniVb3VRXXIowm5A",
     "title": "Erkenci Kus الطائر المبكر الحلقه 3 كاملة مترجمة",
     "description": "",
     "thumbnails": {
@@ -67,9 +172,9 @@
       "height": 360
      }
     },
-    "channelTitle": "JOJOMAMA1111",
-    "playlistId": "PLmK2sZV4lIJUcoZbvKADLBajODpaIXZrF",
-    "position": 1,
+    "channelTitle": "مطبخ وتدابير ربة بيت للمبتدئات",
+    "playlistId": "PLmApGAcUKBIJh_FG6N2kvp4NylP5zhb35",
+    "position": 4,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "SU5K2YdH2T4"
@@ -78,139 +183,111 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Us5-MlDXF_Jpu-QbfZtWIQDJw1Q\"",
-   "id": "UExtSzJzWlY0bElKVWNvWmJ2S0FETEJhak9EcGFJWFpyRi4wMTcyMDhGQUE4NTIzM0Y5",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6aRVgaIIduImexHGgghQ42K110A\"",
+   "id": "UExtQXBHQWNVS0JJSmhfRkc2TjJrdnA0TnlsUDV6aGIzNS5DQUNERDQ2NkIzRUQxNTY1",
    "snippet": {
-    "publishedAt": "2018-08-14T10:54:14.000Z",
-    "channelId": "UCM2dRuvsIcptDP2FLu8iyIg",
-    "title": "مسلسل الطائر المبكر اعلان الحلقه 8 كاملة ومترجمة | مشهد مترجم للعربية",
-    "description": "للدعم و المساندة : اشتراك في القناة و فعل زر الجرس لتتوصل بكل جديد \n\nاشتراك في القناة و فعل زر الجرس 🔔 لتتوصل بجديد الحلقات فور نشرها 📺\n\nتنبيه مهم : ☑️\nمحتوى هذا الفيديو يتماشى مع الاستعمال العادل وهو لا يضر مالك المحتوى باي شكل من الاشكال و ان كان لديك اي اعتراض بخصوص اي انتهاك محتمل المرجو التواصل معي اولا و شكرا \n\nكلمات مفتاحية تساعد على البحث :\n\nالقسم : مسلسلات تركية مسلسل طائر الصباح Erkenci Küş مترجم\n\nمسلسل طائر المبكر Erkenci Küş مترجم الحلقة 7\nقصة المسلسل :\n\nتدور قصة المسلسل التركي الطائر المبكر بطولة ديمت اوزدمير وكان يامان حول شابة صغيرة طموحة وتحب الحياة والمرح تعيش مع عائلتها الذي لديهم محل لبيع الخضروات ولكنها مازالت عاطلة عن العمل يخبرها ولي الأمر ان عليها ايجاد وظيفة او ترك المنزل لتقدم للحصول على فرصة عمل في احدى المكاتب التي اعلنت عن حاجتها الى سكرتيرة لتجد هناك الحب منتظرها عندما يقع في حبها شاب غريب الأطوار يدعى كان ديفيت والذي يحاول التقرب اليها بكل الوسائل الممكنة.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/dzvk9Gd_cuY/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/dzvk9Gd_cuY/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/dzvk9Gd_cuY/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/dzvk9Gd_cuY/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "JOJOMAMA1111",
-    "playlistId": "PLmK2sZV4lIJUcoZbvKADLBajODpaIXZrF",
-    "position": 2,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "dzvk9Gd_cuY"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jYGor0R5h33Xo_zO5cbfydwn_ms\"",
-   "id": "UExtSzJzWlY0bElKVWNvWmJ2S0FETEJhak9EcGFJWFpyRi41MjE1MkI0OTQ2QzJGNzNG",
-   "snippet": {
-    "publishedAt": "2018-08-14T10:55:08.000Z",
-    "channelId": "UCM2dRuvsIcptDP2FLu8iyIg",
-    "title": "Deleted video",
-    "description": "This video is unavailable.",
-    "channelTitle": "JOJOMAMA1111",
-    "playlistId": "PLmK2sZV4lIJUcoZbvKADLBajODpaIXZrF",
-    "position": 3,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "E2SN0KR5Xl4"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/qgrf6lZ6iEXl4F2S4XkGKb71xMA\"",
-   "id": "UExtSzJzWlY0bElKVWNvWmJ2S0FETEJhak9EcGFJWFpyRi4wOTA3OTZBNzVEMTUzOTMy",
-   "snippet": {
-    "publishedAt": "2018-08-14T21:22:05.000Z",
-    "channelId": "UCM2dRuvsIcptDP2FLu8iyIg",
-    "title": "Erkenci Kuş 8. Bölüm - Toplantıya Sanem Damgası!",
-    "description": "Bu dizi ve çok daha fazlası puhutv'de → https://puhutv.com/erkenci-kus-8-bolum-izle?utm_medium=referral&utm_source=youtube&utm_campaign=erkenci_kus&utm_content=bolum_8\n\nErkenci Kuş'a Abone Olmak İçin → http://bit.ly/erk-dd-sub\n\nErkenci Kuş 8. Bölüm Özet:\n\nSanem istemeden öyle bir oyunun parçası oldu ve o kadar çok yalan söyledi ki Can’a, hepsini unutup “Kal” diyemedi. Can da “yüzümü görmeyeceksin” dedi. Şimdi Sanem Can’ı görmeden nasıl yapacak? İkisi de paramparça.\n\nEmre suçluluk duygusunu atlatamıyor hala. Ve sevdiği kadının bu kadar kötücül olabilmesini.  Emre’nin desteğini kaybeden Aylin giderek artan ajans borçlarından çıkmanın bir yolunu arıyor, ve tabi ki planlarını ustaca yapmaya. Pes etmek Aylin’in doğasında yok! Mahallede de başka bir isyan var. Aysun’un oğlu Zebercet’in dükkanını ele geçirdiğini duyan ve “işkadını” olduğunu öğrenen Mevkıbe boş durur mu? O da bakkalı ele geçirecek ve Nihat’ı bakkaldan gönderecek. Zebercet ve Nihat patlamaya hazır bomba gibi boş boş dolaşıyorlar mahallede. İşler karışıyor. Olan bir şekilde yine Osman’a olacak, zavallı Osman!\n\nSanem istifa etti, Can işe gitmiyor. Kimse bilmiyor neler olduğunu Can’a. Ajansta büyük kriz var. Can olmadan kaos hakim ve Ceycey yine kontrolünü kaybediyor. Peki Sanem ve Can ayrı kalabilecek mi? Hayır! Bir bahane, bir bakış, bir dokunuş yetiyor onları bir araya getirmeye.\n\nYapım: Gold Film\nYapımcı: Faruk Turgut\nYönetmen: Çağrı Bayrak\nSenarist: Ayşe Kutlu Üner\n\nOyuncu Kadrosu:\nSanem Aydın: Demet Özdemir\nCan Divit: Can Yaman\nLeyla Aydın: Öznur Serçeler\nMevkibe Aydın: Özlem Tokaslan\nNihat Aydın: Berat Yenilmez\nEmre Divit: Birand Tunca\nAylin Yüksel: Sevcan Yaşar\nAyhan Işık: Ceren Taşçı\nMuzaffer Kaya (Zebercet): Cihan Ercan\nDeren Keskin: Tuğçe Kumral\nCengiz Özdemir (Ceycey): Anıl Çelik\nGüliz Yıldırım: Sibel Şişman\nOsman Işık: Ali Yağcı",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/f4GmpwQ9UkI/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/f4GmpwQ9UkI/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/f4GmpwQ9UkI/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/f4GmpwQ9UkI/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/f4GmpwQ9UkI/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "JOJOMAMA1111",
-    "playlistId": "PLmK2sZV4lIJUcoZbvKADLBajODpaIXZrF",
-    "position": 4,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "f4GmpwQ9UkI"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yFWtLBnQH_B0T1xprXfA2_LdIug\"",
-   "id": "UExtSzJzWlY0bElKVWNvWmJ2S0FETEJhak9EcGFJWFpyRi4xMkVGQjNCMUM1N0RFNEUx",
-   "snippet": {
-    "publishedAt": "2018-08-15T19:05:03.000Z",
-    "channelId": "UCM2dRuvsIcptDP2FLu8iyIg",
-    "title": "Erkenci Kus الطائر المبكر الحلقه 8 كاملة مترجمة",
+    "publishedAt": "2018-07-21T14:00:43.000Z",
+    "channelId": "UCafEaTdgniVb3VRXXIowm5A",
+    "title": "Erkenci Kus الطائر المبكر الحلقه 4 كاملة مترجمة",
     "description": "",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/iY4ljdd32-A/default.jpg",
+      "url": "https://i.ytimg.com/vi/Zvv66CNnXyo/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/iY4ljdd32-A/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/Zvv66CNnXyo/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/iY4ljdd32-A/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/Zvv66CNnXyo/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "JOJOMAMA1111",
-    "playlistId": "PLmK2sZV4lIJUcoZbvKADLBajODpaIXZrF",
+    "channelTitle": "مطبخ وتدابير ربة بيت للمبتدئات",
+    "playlistId": "PLmApGAcUKBIJh_FG6N2kvp4NylP5zhb35",
     "position": 5,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "iY4ljdd32-A"
+     "videoId": "Zvv66CNnXyo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Q2r1bV--sXCvME3fmCZihDOy_y0\"",
+   "id": "UExtQXBHQWNVS0JJSmhfRkc2TjJrdnA0TnlsUDV6aGIzNS41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2018-07-21T13:59:48.000Z",
+    "channelId": "UCafEaTdgniVb3VRXXIowm5A",
+    "title": "مسلسل الطائر المبكر الحلقة 8 مترجمة كاملة",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wWSYMsBmlDA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wWSYMsBmlDA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wWSYMsBmlDA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wWSYMsBmlDA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "مطبخ وتدابير ربة بيت للمبتدئات",
+    "playlistId": "PLmApGAcUKBIJh_FG6N2kvp4NylP5zhb35",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wWSYMsBmlDA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Dchp9KUdrlMsBRRLbso8IAxJldg\"",
+   "id": "UExtQXBHQWNVS0JJSmhfRkc2TjJrdnA0TnlsUDV6aGIzNS45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2018-07-25T14:01:36.000Z",
+    "channelId": "UCafEaTdgniVb3VRXXIowm5A",
+    "title": "Erkenci Kus الطائر المبكر الحلقه 5 كاملة مترجمة",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-GIXHIudM54/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-GIXHIudM54/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-GIXHIudM54/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "مطبخ وتدابير ربة بيت للمبتدئات",
+    "playlistId": "PLmApGAcUKBIJh_FG6N2kvp4NylP5zhb35",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-GIXHIudM54"
     }
    }
   }

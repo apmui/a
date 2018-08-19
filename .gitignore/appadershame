@@ -4,12 +4,12 @@
       "kgenm": "com.apvedioa.appadershame",
       "sip": "6607037190298258",
       "prvice": "https://sites.google.com/site/devappmu/",
-      "snqb": "",
-      "snqb1": "",
-      "snqI": "",
-      "snqI1": "",
-      "snqI2": "",
-      "flopV": "v"
+      "snqb": "7315484449",
+      "snqb1": "7315484449",
+      "snqI": "2063157765",
+      "snqI1": "8985974559",
+      "snqI2": "3733647876",
+      "flopV": ""
     }
   ],
   "grob": [
@@ -22,7 +22,14 @@
     {
       "name": "",
       "image": "https://files.elfann.com/imagine/pictures_728/9209289_1521788447.jpg",
-      "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/adershame"
+      "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/adershame3"
+    },
+
+
+    {
+      "name": "",
+      "image": "https://files.elfann.com/imagine/pictures_728/9209289_1521788447.jpg",
+      "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/adershame2"
     }
   ]
 }

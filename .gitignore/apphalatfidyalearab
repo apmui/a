@@ -21,8 +21,14 @@
 
     {
       "name": "",
-      "image": "https://imga.androidappsapk.co/poster/b/0/0/com.halat.hobe.wath.sapp_2.png",
-      "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/halatfidyalearab"
+      "image": "https://i.ytimg.com/vi/LgC4Aqvm4ic/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/halatfidyalearab2"
+    },
+    
+    {
+      "name": "",
+      "image": "https://i1.ytimg.com/vi/SaebWHuq1wg/mqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/halatfidyalearab3"
     }
   ]
 }

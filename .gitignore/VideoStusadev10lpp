@@ -1,8 +1,8 @@
 {
   "Pakgenm": [
     {
-      "kgenm": "com.apvedioa.appVideoStatus30",
-      "sip": "6607037190298258",
+      "kgenm": "com.dev10l.VideoStusapp",
+      "sip": "6607037190298258....000",
       "prvice": "https://sites.google.com/site/devappmu/",
       "snqb": "8734315818",
       "snqb1": "8734315818",
@@ -19,6 +19,19 @@
       "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/VideoStatus30"
     },
 
+  {
+      "name": "",
+      "image": "https://i.ytimg.com/vi/MPg1CifV2cw/mqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/VideoStatus30"
+    },
+    
+      {
+      "name": "",
+      "image": "https://i.ytimg.com/vi/MPg1CifV2cw/mqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/apmui/a/master/.gitignore/VideoStatus30"
+    },
+    
+    
     {
       "name": "",
       "image": "https://i.ytimg.com/vi/CXxYtR-8Vuc/maxresdefault.jpg",

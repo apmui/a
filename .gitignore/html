@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+  <head>
+
+    <title><data:blog.pageTitle/></title>
+
+<meta content='http://www.sayidaty.net/sites/default/files/styles/620x395/public/2018/08/29/4050451-1104943721.jpg' property='og:url'/>
+<script type='text/javascript'>window.location = &quot;http://www.majalathiya.com/2018/08/tariqat-litajanub-euyub-almikyaj-limukhtalif.html&quot;;</script>
+
+    <b:skin><![CDATA[/*
+-----------------------------------------------
+Blogger      : Template Style
+Name         : 
+Designer     : 
+URL          : https://www.facebook.com/magahiya/
+----------------------------------------------- */
+
+]]></b:skin>
+
+    <b:template-skin>
+      <b:variable default='960px' name='content.width' type='length' value='960px'/>
+      <b:variable default='0' name='main.column.left.width' type='length' value='0px'/>
+      <b:variable default='310px' name='main.column.right.width' type='length' value='310px'/>
+
+    </b:template-skin>
+    <b:include data='blog' name='google-analytics'/>
+  </head>
+
+  <body expr:class='&quot;loading&quot; + data:blog.mobileClass'>
+    <b:section id='dd'/>
+  </body>
+</html>
